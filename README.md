@@ -77,5 +77,5 @@ Se jugaron **10 rondas**, donde cada jugador eligió su estrategia de manera ale
 ### Ganador del Torneo
 El ganador del torneo es **jose**, con un puntaje de **38** y una estrategia final de **Rock**.
 
-### Detalles Técnicos
-Se utilizó una tabla de resultados (*payoff*) para determinar los puntos asignados en cada enfrentamiento según las combinaciones de estrategias elegidas.
+## Enlace a la tarea
+---
