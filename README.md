@@ -79,4 +79,4 @@ El ganador del torneo es **jose**, con un puntaje de **38** y una estrategia fin
 
 ## Enlace a la tarea
 ---
-https://ROSITE12.github.io/Social-Simulation/tarea.html
+https://rosite12.github.io/Social-Simulation/tarea.html
